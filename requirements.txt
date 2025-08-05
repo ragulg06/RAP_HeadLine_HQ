@@ -1,0 +1,37 @@
+# Core ML libraries
+transformers>=4.30.0
+accelerate>=0.20.0
+bitsandbytes>=0.41.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Web scraping and processing
+gradio>=3.40.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+feedparser>=6.0.0
+newspaper3k>=0.2.8
+readability-lxml>=0.8.1
+
+# NLP and analysis
+spacy>=3.6.0
+sentence-transformers>=2.2.0
+
+# Async and networking
+aiohttp>=3.8.0
+nest-asyncio>=1.5.0
+
+# Financial data
+yfinance>=0.2.0
+tweepy>=4.14.0
+
+# Additional utilities
+redis>=4.6.0
+bloom-filter2>=0.3.0
+praw>=7.7.0
+snscrape>=0.7.0
+
+# Development dependencies
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0 
